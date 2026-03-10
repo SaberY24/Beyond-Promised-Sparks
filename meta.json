@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+        "id": "0.8.7-beta",
+        "releasedAt": 1773102403362,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/",
+                "curseforge": "https://curseforge.com/",
+                "generic": "https://example.com/"
+            }
+        }
+    }
   ]
 }
