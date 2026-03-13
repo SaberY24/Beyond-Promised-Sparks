@@ -2,6 +2,13 @@
 
 ## Added Mods ##
 - Modpack Update Checker
+- GpuTape
+- Epic Fight: Skill Tree
+- AppleSkin
+- BetterEnd Forge
+- Bosses of Mass Destruction Forge
+- Mixin Booster
+- Respawning Structures
 
 ## Updated Mods
 - Ares-HUD  
