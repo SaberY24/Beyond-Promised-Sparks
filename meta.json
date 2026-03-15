@@ -12,6 +12,17 @@
                 "generic": "https://example.com/"
             }
         }
+    },
+    {
+        "id": "0.9.5-beta",
+        "releasedAt": 1773537426,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/",
+                "curseforge": "https://curseforge.com/",
+                "generic": "https://example.com/"
+            }
+        }
     }
   ]
 }
