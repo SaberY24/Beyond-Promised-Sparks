@@ -18,12 +18,12 @@
 - Performance Tweaks  
 - Shoulder Surfing  
 
+## Removed Mods
+- Let Me Despawn
+
 ## Changes Made
 - With the update of *Ares-HUD*, the issue where the *Simple Voice Chat* icons were not appearing has been fixed.  
 - With the update of *EpicFight Better Lock-on*, the enemy lock-on system has been improved. The camera now works in a more dynamic way.  
 - The interface of the *main menu* and the *pause menu* has been updated.  
 - A *changelog menu* has been added. When the modpack is launched, it will notify players whenever a new update for the modpack is available.  
 - General performance improvements.
-
-## Removed Mods
-- Let Me Despawn
