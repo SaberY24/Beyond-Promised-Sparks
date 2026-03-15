@@ -1,1 +1,13 @@
+# Beyond: Promised Sparks 0.9.5-Beta
 
+## Added Mods
+- TrashSlot  
+- Drippy Loading Screen  
+- EmoteCraft  
+- Xaero's World Map  
+
+## Changes Made
+- A new **custom loading screen** related to the modpack has been implemented.  
+- The **modpack logo** has been updated.  
+- **General performance improvements.**  
+- Some **controls/keybinds have been adjusted** to provide a better gameplay experience.
