@@ -2,7 +2,12 @@
 
 ## Added Mods
 - Antique Atlas 4  
-- Alex's Mobs  
+- Alex's Mobs
+
+## Added Dependencies
+- Surveyor Map Framework *(for Antique Atlas 4)*  
+- McQoy *(for Antique Atlas 4)*  
+- Citadel *(for Alex's Mobs)* 
 
 ## Updated Mods
 - Oh The Biomes We've Gone  
