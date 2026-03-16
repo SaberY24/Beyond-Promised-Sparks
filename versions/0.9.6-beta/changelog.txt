@@ -1,1 +1,18 @@
+# Beyond: Promised Sparks 0.9.6-Beta
 
+## Added Mods
+- Antique Atlas 4  
+- Alex's Mobs  
+
+## Updated Mods
+- Oh The Biomes We've Gone  
+- Combat Evolution  
+
+## Removed Mods
+- Xaero's World Map  
+
+## Changes Made
+- More *control/keybind adjustments* to improve the gameplay experience.  
+- Thanks to the update of *Oh The Biomes We've Gone*, the bug where *swamp village chests had no loot* has been fixed.  
+- Minor interface changes.  
+- The mod *Alex's Mobs* has been added. This mod *may be removed or kept in the future depending on performance*.
