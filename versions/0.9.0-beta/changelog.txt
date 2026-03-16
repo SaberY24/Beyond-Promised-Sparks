@@ -10,6 +10,13 @@
 - Mixin Booster
 - Respawning Structures
 
+## Added Dependencies in this version
+- Obscure API *(for Aquamirae)*  
+- GeckoLib *(for Bosses of Mass Destruction Forge)*  
+- CERBON's API *(for Bosses of Mass Destruction Forge)*  
+- WunderLib Forge *(for BetterEnd Forge)*  
+- BCLib Forge *(for BetterEnd Forge)*  
+
 ## Updated Mods
 - Ares-HUD  
 - EpicFight Better Lock-on  
