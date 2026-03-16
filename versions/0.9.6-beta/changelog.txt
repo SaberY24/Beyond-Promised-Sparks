@@ -4,7 +4,7 @@
 - Antique Atlas 4  
 - Alex's Mobs
 
-## Added Dependencies
+## Added Dependencies in this version
 - Surveyor Map Framework *(for Antique Atlas 4)*  
 - McQoy *(for Antique Atlas 4)*  
 - Citadel *(for Alex's Mobs)* 
