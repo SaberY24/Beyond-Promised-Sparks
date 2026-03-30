@@ -1,1 +1,31 @@
+## Beyond: Promised Sparks 0.9.7-Beta
 
+### Added Mods  
+- Apothic Attributes  
+- Fancy Toasts | Better Advancements  
+- Beyond Core  
+
+### Added Dependencies in this version  
+- Placebo  
+
+### Updated Mods  
+- BCLib Forge  
+- BetterEnd Forge  
+- Farmer's Delight  
+
+### Removed Mods  
+- 3D Skin Layer  
+- Fast Item Frames  
+- Concurrent Chunk Management Engine (C2ME) *(This may change in future versions)*  
+- Antique Atlas 4
+
+### Removed Dependencies in this version  
+- PuzzlesLib  
+- Surveyor Map Framework
+
+### Changes Made  
+- Added new interface elements, including a **Quests button (beta)**.  
+- Completely redesigned the **main menu**.  
+- Minor updates to the **modpack logo**.  
+- Added new **Shaders** for testing.  
+- General performance improvements.  
