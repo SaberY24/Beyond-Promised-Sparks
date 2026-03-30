@@ -25,7 +25,7 @@
 
 ### Changes Made  
 - Added new interface elements, including a **Quests button (beta)**.  
-- Completely redesigned the **main menu**.  
+- Completely redesigned the **pause menu**.  
 - Minor updates to the **modpack logo**.  
 - Added new **Shaders** for testing.  
 - General performance improvements.  
