@@ -4,9 +4,12 @@
 - Apothic Attributes  
 - Fancy Toasts | Better Advancements  
 - Beyond Core  
+- FTB Quests
+- FTB Teams
 
 ### Added Dependencies in this version  
 - Placebo  
+- FTB Library
 
 ### Updated Mods  
 - BCLib Forge  
