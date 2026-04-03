@@ -37,5 +37,5 @@
 - Minor updates to the **modpack logo**  
 - Added new **Shaders** for testing  
 - General performance improvements  
-- Cambio de teclas al abrir el **mapa** y la **lista de jugadores**  
-- Se removió el tradeo de **XP por Ability Points** en el árbol de habilidades de *Skills*  
+- Changed keybinds for opening the **map** and the **player list**  
+- Removed XP trading for Ability Points in the *Skills* skill tree  
