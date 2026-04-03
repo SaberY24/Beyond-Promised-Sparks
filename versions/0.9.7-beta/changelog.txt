@@ -1,34 +1,41 @@
 # Beyond: Promised Sparks 0.9.7-Beta
 
-### Added Mods  
+## Added Mods  
 - Apothic Attributes  
 - Fancy Toasts | Better Advancements  
 - Beyond Core  
-- FTB Quests
-- FTB Teams
+- FTB Quests  
+- FTB Teams  
 
-### Added Dependencies in this version  
+## Added Dependencies in this version  
 - Placebo  
-- FTB Library
+- FTB Library  
+- Fragmentum  
 
-### Updated Mods  
+## Updated Mods  
 - BCLib Forge  
 - BetterEnd Forge  
 - Farmer's Delight  
+- Loot Journal  
+- EF Better Lock On  
+- Backpacked  
+- Fragmentum  
+- Combat Evolution  
 
-### Removed Mods  
+## Removed Mods  
 - 3D Skin Layer  
 - Fast Item Frames  
 - Concurrent Chunk Management Engine (C2ME) *(This may change in future versions)*  
-- Antique Atlas 4
+- Smooth Chunk Save  
 
-### Removed Dependencies in this version  
+## Removed Dependencies in this version  
 - PuzzlesLib  
-- Surveyor Map Framework
 
-### Changes Made  
-- Added new interface elements, including a **Quests button (beta)**.  
-- Completely redesigned the **pause menu**.  
-- Minor updates to the **modpack logo**.  
-- Added new **Shaders** for testing.  
-- General performance improvements.  
+## Changes Made  
+- Added new interface elements, including a **Quests button (beta)**  
+- Completely redesigned the **pause menu**  
+- Minor updates to the **modpack logo**  
+- Added new **Shaders** for testing  
+- General performance improvements  
+- Cambio de teclas al abrir el **mapa** y la **lista de jugadores**  
+- Se removió el tradeo de **XP por Ability Points** en el árbol de habilidades de *Skills*  
