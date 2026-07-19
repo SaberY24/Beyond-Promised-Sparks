@@ -1,0 +1,80 @@
+# Beyond: Promised Sparks 0.9.8-Beta
+
+## Added Mods
+
+- Aggro Fix
+- Async Logger
+- Bosses' Rise
+- Clumps
+- Faster Iris Shadow Mapper
+- Fluid Tick Structure Processor
+- Immersive Optimization
+- Item Borders
+- Item Highlighter
+- Ixeris
+- Jasione
+- Just Enough Items
+- Kerria
+- quick pack
+- Rebind Narrator
+- ServerCore
+- Shoulder Surfing Reloaded: Camera Fixes & Additions
+- Tax Free Levels
+- Too Fast
+- WoC: Remastered
+
+## Updated Mods
+
+- Backpacked
+- Balm
+- BetterEnd Forge
+- Chloride
+- Distant Horizons
+- Drippy Loading Screen
+- Epic Fight
+- Epic Fight Better Lock On
+- Epic Fight Nightfall
+- Epic Fight Simply Swords Epicfied 2
+- FancyMenu
+- FTB Library
+- GeckoLib
+- Gnetum
+- HT's TreeChop
+- Immersive Optimizations
+- Iron's Lib
+- Iron's Spells 'n Spellbooks
+- Krypton Reno
+- Ksyxis
+- L_Ender's Cataclysm
+- ModernFix
+- Packet Fixer
+- Performance Tweaks
+- Quick Pack
+- Resourcify
+- Respawning Structures
+- Shoulder Surfing
+- Simple Voice Chat
+- SimplySwords Epicfied Core
+- Skin Restorer
+- SLM: EpicFight
+- SLM: Shader
+- SL Library
+- Surveyor Map Framework
+- Sinytra Connector
+- Tax Free Levels
+- TrashSlot
+- TT20 (TPS Fixer)
+- Weapons of Miracle
+- WoC: Remastered
+
+## Removed Mods
+
+- P1nero's Epic X Cataclysm
+- Shoulder Surfing: IS Integration
+
+## Changes Made
+
+- Improved the **main menu interface**
+- Permanently improved the **Quests button** in the inventory
+- Repositioned the **Trash Slot**
+- Reworked how **Skill Points** are obtained
