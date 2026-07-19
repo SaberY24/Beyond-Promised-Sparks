@@ -7,9 +7,9 @@
       "releasedAt": 1773102403362,
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
+          "modrinth": "[https://modrinth.com/](https://modrinth.com/)",
+          "curseforge": "[https://curseforge.com/](https://curseforge.com/)",
+          "generic": "[https://example.com/](https://example.com/)"
         }
       }
     },
@@ -18,9 +18,9 @@
       "releasedAt": 1773537426000,
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
+          "modrinth": "[https://modrinth.com/](https://modrinth.com/)",
+          "curseforge": "[https://curseforge.com/](https://curseforge.com/)",
+          "generic": "[https://example.com/](https://example.com/)"
         }
       }
     },
@@ -29,9 +29,9 @@
       "releasedAt": 1773619477994,
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
+          "modrinth": "[https://modrinth.com/](https://modrinth.com/)",
+          "curseforge": "[https://curseforge.com/](https://curseforge.com/)",
+          "generic": "[https://example.com/](https://example.com/)"
         }
       }
     },
@@ -40,9 +40,20 @@
       "releasedAt": 1774906396000,
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
+          "modrinth": "[https://modrinth.com/](https://modrinth.com/)",
+          "curseforge": "[https://curseforge.com/](https://curseforge.com/)",
+          "generic": "[https://example.com/](https://example.com/)"
+        }
+      }
+    },
+    {
+      "id": "0.9.8-beta",
+      "releasedAt": 1784500560000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "[https://modrinth.com/](https://modrinth.com/)",
+          "curseforge": "[https://curseforge.com/](https://curseforge.com/)",
+          "generic": "[https://example.com/](https://example.com/)"
         }
       }
     }
