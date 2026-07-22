@@ -1,6 +1,6 @@
 # Beyond: Promised Sparks 0.9.8-Beta
 
-## Added Mods
+## Added Mods / Mods Añadidos
 
 - Aggro Fix
 - Async Logger
@@ -23,7 +23,7 @@
 - Too Fast
 - WoC: Remastered
 
-## Updated Mods
+## Updated Mods / Mods Actualizados
 
 - Backpacked
 - Balm
@@ -56,18 +56,18 @@
 - Simple Voice Chat
 - SimplySwords Epicfied Core
 - Skin Restorer
+- Sinytra Connector
 - SLM: EpicFight
 - SLM: Shader
 - SL Library
 - Surveyor Map Framework
-- Sinytra Connector
 - Tax Free Levels
 - TrashSlot
 - TT20 (TPS Fixer)
 - Weapons of Miracle
 - WoC: Remastered
 
-## Removed Mods
+## Removed Mods / Mods Eliminados
 
 - P1nero's Epic X Cataclysm
 - Shoulder Surfing: IS Integration
@@ -75,6 +75,13 @@
 ## Changes Made
 
 - Improved the **main menu interface**
-- Permanently improved the **Quests button** in the inventory
+- Permanently improved the **Quests** button in the inventory
 - Repositioned the **Trash Slot**
 - Reworked how **Skill Points** are obtained
+
+## Cambios Hechos
+
+- Se mejoró la **interfaz del menú principal**
+- Se mejoró de manera definitiva el botón de **Quests** en el inventario
+- Se cambió el posicionamiento del **Trash Slot**
+- Se modificó la forma de obtener **Skill Points**
