@@ -79,6 +79,8 @@
 - Repositioned the **Trash Slot**
 - Reworked how **Skill Points** are obtained
 
+---
+
 ## Cambios Hechos
 
 - Se mejoró la **interfaz del menú principal**
