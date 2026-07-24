@@ -85,5 +85,5 @@
 
 - Se mejoró la **interfaz del menú principal**
 - Se mejoró de manera definitiva el botón de **Quests** en el inventario
-- Se cambió el posicionamiento del **Trash Slot**
+- Se cambió el posicionamiento del **Slot de basura**
 - Se modificó la forma de obtener **Skill Points**
